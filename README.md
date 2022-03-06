@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+   - Cloud Native .Net Microservices <br/>
+   - Serverless Architecture <br/>
+   - Modular Monolithic <br/>
+   - Devops <br/>   
+</details>
