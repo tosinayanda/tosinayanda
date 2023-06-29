@@ -20,5 +20,6 @@ Here are some ideas to get you started:
    - Cloud Native .Net Microservices <br/>
    - Serverless Architecture <br/>
    - Modular Monolithic <br/>
-   - Devops <br/>   
+   - Devops <br/>  
+   -.NET Core and Golang <br/>
 </details>
